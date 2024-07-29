@@ -6,4 +6,4 @@ Despite the impressive capability of large language models (LLMs), knowing when 
 
 ## poster of the paper
 
-<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="Shuang_Ao_UAI2024_v2.pdf" width = "500px" height="200px" ></img><br>
+<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="Shuang_Ao_UAI2024_v2.png" width = "500px" height="200px" ></img><br>
